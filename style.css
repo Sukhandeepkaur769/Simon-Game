@@ -14,7 +14,6 @@ body{
 }
 .yellow{
     background-color: #f99b45;
-
 }
 .red{
     background-color:#d95980;
@@ -24,4 +23,7 @@ body{
 }
 .green{
     background-color: #63aac0;
+}
+.userflash{
+    background-color: green;
 }
